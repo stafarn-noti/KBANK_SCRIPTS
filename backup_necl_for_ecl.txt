@@ -1,0 +1,9 @@
+/data/tfrs9/02_staging/data/stgrm/link_modified_assets.sas7bdat
+/data/tfrs9/02_staging/data/stgrm/link_inst_eir.sas7bdat
+/data/tfrs9/02_staging/data/stgrm/link_loan_adjustment.sas7bdat
+/data/tfrs9/02_staging/data/stgrm/ecl_cf_contractual.sas7bdat
+/data/tfrs9/02_staging/data/stgrm/ecl_cf_prepmt_base.sas7bdat
+/data/tfrs9/02_staging/data/stgrm/ecl_cf_prepmt_best.sas7bdat
+/data/tfrs9/02_staging/data/stgrm/ecl_cf_prepmt_ttc_base.sas7bdat
+/data/tfrs9/02_staging/data/stgrm/ecl_cf_prepmt_worse.sas7bdat
+/app/sas/config/Lev1/AppData/SASModelImplementationPlatform/non_ecl/input/economics/tfrs9_econ_eom.sas7bdat
