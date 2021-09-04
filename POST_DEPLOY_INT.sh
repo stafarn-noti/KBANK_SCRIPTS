@@ -64,11 +64,6 @@ echo "copying link_modified_assets.sas7bdat stgrm >>> stgtemp.." >> $LOG_PATH/$L
 cp -rp ${libary_location}/stgrm/link_modified_assets.sas7bdat ${libary_location}/stgtemp/
 
 
-## Ccpy tfrs9_econ.sas7bdat (NECL) to tfrs9_econ_eom.sas7bdat (ECL)
-#econ_location=/app/sas/config/Lev1/AppData/SASModelImplementationPlatform/non_ecl/input/economics
-#echo "copying tfrs9_econ.sas7bdat stgtemp >>> ${econ_location}" >> $LOG_PATH/$LOG_NAME
-#cp -rp ${econ_location}/tfrs9_econ.sas7bdat ${econ_location}/tfrs9_econ_eom.sas7bdat
-
 echo "Completed"
 exit 0
 
