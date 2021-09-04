@@ -66,6 +66,7 @@ cp -rp ${libary_location}/stgrm/link_modified_assets.sas7bdat ${libary_location}
 
 echo "Completed"
 exit 0
+exit 0
 
 }
 
